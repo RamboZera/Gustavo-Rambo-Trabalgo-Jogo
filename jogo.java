@@ -21,7 +21,7 @@ Ambiente:
 Mapa: O jogo se passa em um grande mapa com uma variedade de locais, como cidades, áreas rurais, aeroportos, etc.
 
 
-Zona de Gás: Uma zona de gás tóxico encolhe continuamente o mapa, forçando os jogadores a se moverem para áreas seguras.
+Zona de Gás: Uma zona de gás tóxico encolhe continuamente o mapa, forçando os jogadores a se moverem para áreas seguras..
 
 
 
